@@ -1,0 +1,142 @@
+.main{
+    width: 100%; 
+   
+    border-width: 1px; 
+    border-style: solid;
+    border-color: black;
+    display: flex;
+  }
+  .main-1{
+      width: 50%; 
+      border-width: 1px; 
+      border-style: solid;
+      
+      border-color: black;
+     
+      
+   
+    
+      
+    }
+    .main-1 img{
+      width:50%; 
+      height: 310px;
+      float: right;
+    }
+    .main-2{
+      width: 50%; 
+      border-width: 1px; 
+      border-style: solid;
+      border-color: red;
+    }
+    .heading{
+      width: 100%;
+      border-width: 1px; 
+      border-style: solid;
+      border-color:blueviolet;
+        float: left;
+    }
+    .input-fill{
+        width: 100%;
+      border-width: 4px; 
+      border-style: solid;
+      border-color:turquoise;
+        float: left;
+    }
+    .one{
+      width: 40%;
+    border-width: 1px; 
+    border-style: solid;
+    border-color:green;
+    display: flex;
+  }
+  .two{
+      width: 60%;
+    border-width: 1px; 
+    border-style: solid;
+    border-color: red;
+    display: flex;
+  }
+  .three{
+      width: 70%;
+    border-width: 1px; 
+    border-style: solid;
+    border-color: red;
+    display: flex;
+  }
+    .fill-1{
+        width: 50%;
+        height: 25px;
+      border-width: 2px; 
+      border-style: solid;
+      border-color:#3E4145 ;
+      margin: 3px;
+      border-radius: 5px;
+    }
+    
+    output-fill{
+      width: 100%;
+      
+    border-width: 3px; 
+    border-style: solid;
+    border-color: yellow;
+   
+  }
+  .four{
+      width: 100%;
+     
+      border-width: 1px; 
+      border-style: solid;
+      border-color: red;
+       display: flex;
+  
+        
+    }
+  
+    .fill-2{
+      width: 20%;
+      height: 25px;
+    border-width: 2px; 
+    border-style: solid;
+    border-color: red;
+    margin: 5px;
+    border-radius: 5px;
+    border-color:#3E4145 ;
+   
+  }
+  .fill-3{
+      width: 10%;
+      height: 25px;
+    border-width: 2px; 
+    border-style: solid;
+    border-color: red;
+    margin: 5px;
+    border-radius: 5px;
+    border-color:#3E4145 ;
+   
+  }
+  .grand-ttl{
+      width: 100%;
+      height: 40px;
+      border-width: 2px; 
+    border-style: solid;
+    border-color:blue;
+    display: flex;
+  }
+  
+  .ttl-1{
+      width: 50%;
+      border-width: 1px; 
+    border-style: solid;
+    border-color: red;
+    text-align: right;
+    font-size:30px;
+  }
+  .ttl-2{
+      width: 50%;
+      border-width: 1px; 
+    border-style: solid;
+    border-color: red;
+    text-align: left;
+    font-size:30px;
+  }
